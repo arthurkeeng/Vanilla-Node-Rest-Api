@@ -15,4 +15,5 @@ In your package.json file , write the following scripts
     
 # Nota Bene
 This is just barebones backend , frontend is not included but can be implemented with whatever framework you'd like
-in your own project
+in your own project.
+Dependency list included in the package.json file. Simply run npm i
